@@ -1,0 +1,10 @@
+
+public class HelloWorld{
+
+public void static void(String[] agrgs) {
+
+	System.out.println("Hello World");
+
+	}
+
+}
